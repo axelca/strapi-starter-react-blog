@@ -4,4 +4,4 @@
   command = "yarn build"
 
 [template.environment]
-  REACT_APP_BACKEND_URL = "https://strapibend.herokuapp.com/"
+  REACT_APP_BACKEND_URL = "https://intense-garden-57316.herokuapp.com/"
